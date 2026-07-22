@@ -1,14 +1,22 @@
-# My Developer Journey 👋
+# 👋 Hi, I'm Octavia Baatjies
 
-Hi! I'm Octavia.
+Welcome to my developer journey!
 
-I'm documenting my journey to becoming a software engineer.
+## About Me
 
-## Goals
-- Learn HTML
-- Learn CSS
-- Learn JavaScript
-- Build real-world projects
-- Become a Software Engineer
+I'm an aspiring Software Engineer from Cape Town, South Africa.
 
-Started: July 2026
+I'm currently transitioning from IT Systems Support into Software Engineering and documenting everything I learn.
+
+## 🚀 Current Roadmap
+
+- ✅ Git & GitHub
+- 🔄 HTML
+- ⏳ CSS
+- ⏳ JavaScript
+- ⏳ React
+- ⏳ Node.js
+
+## 📅 Started
+
+July 2026
